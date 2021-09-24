@@ -18,9 +18,5 @@ function setup() {
  * uitgevoerd door de p5 library, nadat de setup functie klaar is
  */
 function draw() {
-  // stel vulkleur in
-  fill(100, 100, 255);
 
-  // teken een cirkel
-  ellipse(50,50,80,80);
 }

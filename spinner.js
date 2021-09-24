@@ -1,0 +1,10 @@
+class Spinner {
+    cijfer;
+
+    constructor() {
+
+
+    }
+
+    
+}
